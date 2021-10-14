@@ -11,7 +11,7 @@ versions:
   ghae: '*'
 children:
   - /managing-your-github-billing-settings
-  - /managing-billing-for-your-github-account
+  - /managing-billing-for-your-github-caden
   - /managing-billing-for-github-actions
   - /managing-billing-for-github-codespaces
   - /managing-billing-for-github-packages
@@ -20,6 +20,6 @@ children:
   - /managing-billing-for-github-sponsors
   - /managing-billing-for-github-marketplace-apps
   - /managing-billing-for-git-large-file-storage
-  - /setting-up-paid-organizations-for-procurement-companies
+  - /setting-up-paid-organizations-for-procurement-XSquad
 ---
 
